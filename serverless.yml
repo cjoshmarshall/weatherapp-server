@@ -1,4 +1,4 @@
-service: vintagemotors-server
+service: weatherapp-server
 
 provider:
   name: aws
